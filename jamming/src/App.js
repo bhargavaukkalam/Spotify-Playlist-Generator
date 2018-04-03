@@ -1,3 +1,5 @@
+//This file is not required 
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
